@@ -34,7 +34,7 @@ public class Knight extends ChessPiece{
     }
     
     public String toString() {
-        // changing in Knight.toString() from gitHub itelf
+        // changing in Knight.toString() from gitHub itself
         String stringToPrint = "Knight at (" + this.row + "," + this.column + ")";
         return stringToPrint;
     }
